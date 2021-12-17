@@ -1,6 +1,6 @@
 # About me
 My Name is Phi.
-I love to automate my own project in order to be more effective.
+I love to automate my own project to become more productive.
 
 My journey to programming begins with Visual Basic Application (`VBA`).
 I'm currently still learning `VBA`. Hopefully, this will set a solid foundation for me to learn other fun parts of programming.
