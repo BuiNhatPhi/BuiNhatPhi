@@ -1,5 +1,4 @@
-# Hellow World
-My Name is Phi.
+# Hello World
 I love Excel and automation.
 
 I had no experience nor knowledge about programming before. 
