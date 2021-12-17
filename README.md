@@ -2,7 +2,8 @@
 My Name is Phi.
 I love Excel and automation.
 
-I have no experience nor knowledge about programming before. That's why as soon as I heard about Visual Basic Application (``VBA``), I knew right away that was the most ideal time to start with programming.
+I had no experience nor knowledge about programming before. 
+That's why as soon as I heard of Visual Basic Application (``VBA``), I knew right away that was the most ideal time to learn writing some codes. 
 
 Currently, I'm still learning ``VBA``. Hopefully, this will set a solid foundation for me to step further into the world of programming.
 
